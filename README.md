@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+🌱 I’m currently learning programming and am tracking my study progress through Pixela
+![](https://pixe.la/v1/users/theadambishop/graphs/<graph001>)
