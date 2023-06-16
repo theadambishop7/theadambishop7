@@ -4,4 +4,6 @@
 
 ![](https://pixe.la/v1/users/theadambishop/graphs/graph001)
 
+I try and spend at least 1 hour every day focused on this learning. I'm not 100% consistent, but it's been pretty good!
+
 📣 Feel free to get in touch if you have questions or guidance!
