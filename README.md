@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning more about programming (specifically Python) and am tracking my study progress through [Pixe.la](https://pixe.la/v1/users/theadambishop/graphs/graph001.html):
+🌱 I’m currently learning more about programming (specifically Python and Javascript) and am tracking my study progress through [Pixe.la](https://pixe.la/v1/users/theadambishop/graphs/graph001.html):
 
 ![](https://pixe.la/v1/users/theadambishop/graphs/graph001)
 
