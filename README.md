@@ -4,6 +4,6 @@
 
 ![](https://pixe.la/v1/users/theadambishop/graphs/graph001)
 
-I try and spend at least 1 hour every day focused on this learning. I'm not 100% consistent, but it's been pretty good!
+Had a baby in Jan 2024 so my progress has been put on pause... Will try to get back to it in the coming months
 
 📣 Feel free to get in touch if you have questions or guidance!
